@@ -14,16 +14,29 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <!-- Languages -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,cpp,c,bash" /></a>
-  <!-- Frontend -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" /></a>
-  <!-- Backend & DB -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" /></a>
-  <!-- Tools -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,jira,postman,vscode,figma,docker,linux" /></a>
-  <!-- Extra -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=redux,graphql,vercel" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /></a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /></a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /></a>
+  &nbsp;
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /></a>
+  &nbsp;
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /></a>
+  &nbsp;
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" /></a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" /></a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /></a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /></a>
+  &nbsp;
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" /></a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" /></a>
 </p>
 
 ### 📊 Languages I Use the Most
