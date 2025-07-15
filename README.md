@@ -67,4 +67,8 @@
   <a href="https://auth.geeksforgeeks.org/user/parasaggarwal7172/practice" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40" alt="GeeksforGeeks" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/paras-aggarwal-275497219/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
+  </a>
 </p>
