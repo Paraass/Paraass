@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paras Aggarwal</h1>
-<h3 align="center">Full-stack developer | Open-source enthusiast | Sports lover</h3>
 
 ---
 
 💡 **About Me**
 
-- 🎓 Computer Science student passionate about building meaningful software  
-- 🔍 Exploring the world of full-stack development, DevOps, and Web3  
-- 💻 Skilled in React, Node.js, Python, and MySQL  
-- 🔄 Always eager to collaborate and contribute to new projects  
-- ⚽ Fun fact: I love sports and can play almost every sport if given a chance 🏀🏸⚽🏏
+- 🎓 Final-year Computer Science student  
+- 💻 Passionate about building full-stack web apps & solving real-world problems  
+- 🔧 Constantly exploring DevOps, Web3, and open-source contributions  
+- 🌱 Currently learning React Native and cloud deployment  
+- ⚽ Obsessed with sports — I can play almost every sport if given a chance  
+- 🤝 Always open to collaboration and learning new things
 
 ---
 
@@ -23,13 +23,19 @@
 
 <p align="center">
   <a href="mailto:parasaggarwal7172@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/paras._aggarwal" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/paraass/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/parasaggarwal7172/practice" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40" alt="GeeksforGeeks" />
   </a>
 </p>
 
@@ -62,14 +68,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Paraass&theme=radical&no-frame=true&row=1&column=6" />
 </p>
-
-</p>
-
----
-
-### ⌛ GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Paraass&theme=radical&hide_border=false" />
-</p>
-
