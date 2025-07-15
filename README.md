@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Paras Aggarwal</h1>
+<h4 align="center">Curious learner and developer from India 🇮🇳</h4>
 
 ---
 
-💡 **About Me**
-
-- 🎓 Final-year Computer Science student  
-- 💻 Passionate about building full-stack web apps & solving real-world problems  
-- 🔧 Constantly exploring DevOps, Web3, and open-source contributions  
-- 🌱 Currently learning React Native and cloud deployment  
-- ⚽ Obsessed with sports — I can play almost every sport if given a chance  
-- 🤝 Always open to collaboration and learning new things
+- 🎓 Final-year Computer Science undergraduate  
+- 🌱 Currently diving deep into **DevOps**, **Cloud**, and scalable systems  
+- 💻 Hands-on with full-stack development, building real-world web apps  
+- 🧠 I enjoy solving problems and understanding how things work under the hood  
+- ⚽ Outside of tech, I love sports and can play almost every sport if given a chance  
 
 ---
 
