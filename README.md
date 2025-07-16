@@ -64,11 +64,11 @@
   &nbsp;&nbsp;
   <a href="https://instagram.com/paras._aggarwal"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="38" alt="Instagram" /></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/paraass"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="38" alt="X" /></a>
+  <a href="https://x.com/discodripp"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="38" alt="X" /></a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/paraass/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="38" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/ParasAggarwal/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="38" alt="LeetCode" /></a>
   &nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/parasaggarwal7172/practice"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="38" alt="GFG" /></a>
+  <a href="https://www.geeksforgeeks.org/user/parasagga0t8p/"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="38" alt="GFG" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/paras-aggarwal-275497219/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38" alt="LinkedIn" /></a>
+  <a href="[https://www.linkedin.com/in/paras-aggarwal-275497219](https://www.linkedin.com/in/paras-aggarwal-b58029246/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38" alt="LinkedIn" /></a>
 </p>
