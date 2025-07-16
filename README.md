@@ -25,7 +25,6 @@
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></a>
   <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /></a>
   <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" /></a>
   <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" /></a>
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /></a>
@@ -42,7 +41,6 @@
   <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira" /></a>
   <a href="https://docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
   <a href="https://vercel.com/"><img src="https://img.icons8.com/color/48/000000/vercel.png" width="40" alt="Vercel" /></a>
-  <a href="https://netlify.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/netlify.png" width="40" alt="Netlify" /></a>
 </p>
 
 ---
@@ -66,7 +64,7 @@
   &nbsp;&nbsp;
   <a href="https://instagram.com/paras._aggarwal"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="38" alt="Instagram" /></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/paraass"><img src="https://img.icons8.com/ios-filled/50/000000/x.png" width="38" alt="X (Twitter)" /></a>
+  <a href="https://x.com/paraass"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="38" alt="X" /></a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/paraass/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="38" alt="LeetCode" /></a>
   &nbsp;&nbsp;
