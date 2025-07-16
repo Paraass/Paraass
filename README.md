@@ -62,7 +62,7 @@
 <p align="center">  
   <a href="mailto:parasaggarwal7172@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="38" alt="Gmail" /></a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/paras._aggarwal"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="38" alt="Instagram" /></a>
+  <a href="https://instagram.com/paraasass"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="38" alt="Instagram" /></a>
   &nbsp;&nbsp;
   <a href="https://x.com/discodripp"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="38" alt="X" /></a>
   &nbsp;&nbsp;
@@ -70,5 +70,7 @@
   &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/parasagga0t8p/"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="38" alt="GFG" /></a>
   &nbsp;&nbsp;
-  <a href="[https://www.linkedin.com/in/paras-aggarwal-275497219](https://www.linkedin.com/in/paras-aggarwal-b58029246/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38" alt="LinkedIn" /></a>
-</p>
+<a href="https://www.linkedin.com/in/paras-aggarwal-b58029246/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38" alt="LinkedIn" />
+</a>
+
