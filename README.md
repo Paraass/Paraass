@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Aggarwal</h1>
-<h4 align="center">Curious learner and developer from India 🇮🇳</h4>
+<h4 align="center">Curious learner and developer from India </h4>
 
 - 🎓 Final-year Computer Science undergraduate  
 - 🌱 Currently diving deep into **DevOps**, **Cloud**, and scalable systems  
