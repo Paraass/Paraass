@@ -1,17 +1,10 @@
-<h1 align="center" style="font-family:'Times New Roman', Times, serif">
-  Hi 👋, I'm Paras Aggarwal
-</h1>
-<h3 align="center" style="font-family:'Times New Roman', Times, serif">
-  Computer Science Undergrad | Full-Stack & DevOps Enthusiast
-</h3>
-
-<p align="center" style="font-family:'Times New Roman', Times, serif; font-size:18px;">
-  🎓 Final-year student specializing in scalable systems, DevOps, and Cloud<br>
-  💻 Experienced in building robust, real-world web applications<br>
-  🧠 Analytical thinker who values solving complex problems<br>
-  🏸 Outside of tech, I’m usually on the field, always ready for a new sports challenge
-</p>
-  
+<h1 align="center">Hi 👋, I'm Paras Aggarwal</h1>
+<h4 align="center">Curious learner and developer from India </h4>
+- 🎓 Final-year Computer Science undergraduate  
+- 🌱 Currently diving deep into **DevOps**, **Cloud**, and scalable systems  
+- 💻 Hands-on with full-stack development, building real-world web apps  
+- 🧠 I enjoy solving problems and understanding how things work under the hood  
+- ⚽ Outside of tech, I love sports and can play almost every sport if given a chance  
 ### 🏆 Contribution Highlights  
 <p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=Paraass&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />  
