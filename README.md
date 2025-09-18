@@ -1,86 +1,88 @@
-<!-- Main intro -->
-<h1 align="center"><span style="font-family:'Times New Roman', Times, serif">Hi 👋, I'm Paras Aggarwal</span></h1>
-<h4 align="center"><span style="font-family:'Times New Roman', Times, serif">Curious learner and developer from India</span></h4>
-
-<span style="font-family:'Times New Roman', Times, serif">
-- 🎓 Final-year Computer Science undergraduate  
-- 🌱 Currently diving deep into <b>DevOps</b>, <b>Cloud</b>, and scalable systems  
-- 💻 Hands-on with full-stack development, building real-world web apps  
-- 🧠 I enjoy solving problems and understanding how things work under the hood  
-- ⚽ Outside of tech, I love sports and can play almost every sport if given a chance  
-</span>
+<h1 align="center" style="font-family:'Times New Roman', Times, serif">
+  Hi 👋, I'm Paras Aggarwal
+</h1>
+<h3 align="center" style="font-family:'Times New Roman', Times, serif">
+  Curious Learner & Developer | India
+</h3>
 
 ---
 
-<!-- GitHub Trophies -->
-<h3 align="center">🏆 Contribution Highlights</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paraass&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<p align="center" style="font-family:'Times New Roman', Times, serif; font-size:18px;">
+  🎓 <b>Final-year Computer Science undergraduate</b><br>
+  🌱 <b>DevOps | Cloud | Scalable Systems</b><br>
+  💻 <b>Full-stack developer building real-world apps</b><br>
+  🧠 <b>Loves problem-solving & going under the hood</b><br>
+  ⚽ <b>Sports enthusiast – I love learning any game!</b>
 </p>
 
 ---
 
-<!-- Tech Stack -->
-<h3 align="center">🛠️ Tech Stack</h3>
+<h2 align="center" style="font-family:'Times New Roman', Times, serif">⚡ Tech Stack</h2>
 <p align="center">
-  <!-- Add tech logos as needed (no font-size/css for images) -->
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /></a>
-  <a href="https://devdocs.io/c/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" /></a>
-  <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /></a>
-  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></a>
-  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /></a>
-  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /></a>
-  <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" /></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /></a>
-  <a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" /></a>
-  <a href="https://figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" /></a>
-  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira" /></a>
-  <a href="https://docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
-  <a href="https://vercel.com/"><img src="https://img.icons8.com/color/48/000000/vercel.png" width="40" alt="Vercel" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>
+  <img src="https://img.icons8.com/color/48/000000/vercel.png" width="36"/>
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paraass&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Paraass&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<h2 align="center" style="font-family:'Times New Roman', Times, serif">🧩 Featured Projects</h2>
+<p align="center" style="font-family:'Times New Roman', Times, serif">
+  Explore my work & code: <a href="https://github.com/Paraass">github.com/Paraass</a>
 </p>
 
 ---
 
-<!-- Work/Projects -->
-<h3 align="center">🧩 My Work</h3>
-<span style="font-family:'Times New Roman', Times, serif">
-🔗 Browse my projects: <a href="https://github.com/Paraass">github.com/Paraass</a>
-</span>
+<h2 align="center" style="font-family:'Times New Roman', Times, serif">📬 Contact Me</h2>
+<div align="center">
+  <a href="mailto:parasaggarwal7172@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="38" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/paraasass">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="38" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/discodripp">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="38" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/ParasAggarwal/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="38" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/parasagga0t8p/">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="38" alt="GFG"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/paras-aggarwal-b58029246/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
-<!-- Contact Section -->
-<h3 align="center">📬 Contact Me</h3>
-<p align="center">
-  <a href="mailto:parasaggarwal7172@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="38" alt="Gmail" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/paraasass"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="38" alt="Instagram" /></a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/discodripp"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="38" alt="X" /></a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ParasAggarwal/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="38" alt="LeetCode" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/parasagga0t8p/"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="38" alt="GFG" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/paras-aggarwal-b58029246/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38" alt="LinkedIn" /></a>
+<p align="center" style="font-family:'Times New Roman', Times, serif">
+  <b>Let's connect and build something amazing!</b>
 </p>
