@@ -1,32 +1,29 @@
-<div style="font-family: 'Times New Roman', serif;">
+<!-- Main intro -->
+<h1 align="center"><span style="font-family:'Times New Roman', Times, serif">Hi 👋, I'm Paras Aggarwal</span></h1>
+<h4 align="center"><span style="font-family:'Times New Roman', Times, serif">Curious learner and developer from India</span></h4>
 
-<h1 align="center">Hi 👋, I'm Paras Aggarwal</h1>
-
-<h4 align="center">Curious learner and developer from India</h4>
-
+<span style="font-family:'Times New Roman', Times, serif">
 - 🎓 Final-year Computer Science undergraduate  
-- 🌱 Currently diving deep into **DevOps**, **Cloud**, and scalable systems  
+- 🌱 Currently diving deep into <b>DevOps</b>, <b>Cloud</b>, and scalable systems  
 - 💻 Hands-on with full-stack development, building real-world web apps  
 - 🧠 I enjoy solving problems and understanding how things work under the hood  
 - ⚽ Outside of tech, I love sports and can play almost every sport if given a chance  
+</span>
 
-### 🏆 Contribution Highlights  
+---
 
-</div>
-
+<!-- GitHub Trophies -->
+<h3 align="center">🏆 Contribution Highlights</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Paraass&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-<div style="font-family: 'Times New Roman', serif;">
-
 ---
 
-### 🛠️ Tech Stack  
-
-</div>
-
-<p align="center">  
+<!-- Tech Stack -->
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <!-- Add tech logos as needed (no font-size/css for images) -->
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /></a>
   <a href="https://devdocs.io/c/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" /></a>
   <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /></a>
@@ -53,34 +50,37 @@
   <a href="https://vercel.com/"><img src="https://img.icons8.com/color/48/000000/vercel.png" width="40" alt="Vercel" /></a>
 </p>
 
-<div style="font-family: 'Times New Roman', serif;">
-
 ---
 
-### 📊 GitHub Stats  
-
-</div>
-
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paraass&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-  
   <img src="https://github-readme-stats.vercel.app/api?username=Paraass&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<div style="font-family: 'Times New Roman', serif;">
+---
+
+<!-- Work/Projects -->
+<h3 align="center">🧩 My Work</h3>
+<span style="font-family:'Times New Roman', Times, serif">
+🔗 Browse my projects: <a href="https://github.com/Paraass">github.com/Paraass</a>
+</span>
 
 ---
 
-### 🧩 My Work  
-
-🔗 Browse my projects: [github.com/Paraass](https://github.com/Paraass)
-
----
-
-### 📬 Contact Me  
-
-</div>
-
+<!-- Contact Section -->
+<h3 align="center">📬 Contact Me</h3>
 <p align="center">
   <a href="mailto:parasaggarwal7172@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="38" alt="Gmail" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/paraasass"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="38" alt="Instagram" /></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/discodripp"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="38" alt="X" /></a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/ParasAggarwal/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="38" alt="LeetCode" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/parasagga0t8p/"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="38" alt="GFG" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/paras-aggarwal-b58029246/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38" alt="LinkedIn" /></a>
 </p>
