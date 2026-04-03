@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me  
 - 🎓 Final-year **Computer Science Undergraduate**  
-- 🌱 Currently exploring **DevOps**, **Cloud**, **Scalable Systems**, and** Blockchain** 
+- 🌱 Currently exploring **DevOps**, **Cloud**, **Scalable Systems**, and **Blockchain** 
 - 💻 Passionate about **Full-Stack Development**, building real-world web applications  
 - 🧠 I love problem-solving and diving deep into how things work under the hood  
 - ⚽ Outside of tech, I enjoy **sports** and can play almost any game if given a chance  
