@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Final-year **Computer Science Undergraduate**  
+- 🎓I am a **Computer Science graduate**  
 - 🌱 Currently exploring **Datasets**, **Cloud**, **Scalable Systems**, and **Blockchain** 
 - 💻 Passionate about **Full-Stack Development**, building real-world web applications  
 - 🧠 I love problem-solving and diving deep into how things work under the hood  
