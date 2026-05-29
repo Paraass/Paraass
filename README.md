@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paras Aggarwal</h1>
+<h1 align="center">Hello, I am Paras Aggarwal</h1>
 <h3 align="center">Curious Learner & Developer | India</h3>
 
 ---
