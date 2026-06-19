@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me  
 - 🎓I am a **Computer Science graduate**  
 - 🌱 Currently exploring **Datasets**, **Cloud**, **Scalable Systems**, and **Blockchain** 
-- 💻 Passionate about **Full-Stack Development**, building real world web applications  
+- 💻 Passionate about **Full-Stack Development**, building real world web applications for International Clients  
 - 🧠 I love problem-solving and diving deep into how things work under the hood  
 - ⚽ Outside of tech, I enjoy **sports** and can play almost any game if given a chance  
 
